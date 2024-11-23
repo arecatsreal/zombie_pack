@@ -1,0 +1,12 @@
+name = "Zombie Pack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6847e11df543ff2005b5b4bb35c54bd8995eabe5a299db98910a362ece17cfd1"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
