@@ -1,0 +1,13 @@
+name = "Gray's Mob Overhaul x Fresh Animations"
+filename = "Fresh Mob Overhaul v3.5 1.19-1.20.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oEL766nd/versions/NLeJActX/Fresh%20Mob%20Overhaul%20v3.5%201.19-1.20.2.zip"
+hash-format = "sha512"
+hash = "7061b04152a4bed8f92e8f51517e4ce55b55166554e209cb026fcba198d1c9ef6f8cf3886c14922ea4dc08592c905c9f6968b2399b31a2836e03297b59fc191e"
+
+[update]
+[update.modrinth]
+mod-id = "oEL766nd"
+version = "NLeJActX"

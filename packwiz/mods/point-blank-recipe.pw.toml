@@ -1,0 +1,13 @@
+name = "Point Blank: Recipe"
+filename = "PointBlankRecipe gunpacks-1.20.1-0.6.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dnFDmCeB/versions/Q8ZDK2Pq/PointBlankRecipe%20gunpacks-1.20.1-0.6.9.jar"
+hash-format = "sha512"
+hash = "99e5106908a2ac0388a6c7ee1a072792be9230bf801709cb827ecf7260268c4286510a4bfbcb80ce8d7a597ec459586db1f1035a59529f81a953ec82c4b82649"
+
+[update]
+[update.modrinth]
+mod-id = "dnFDmCeB"
+version = "Q8ZDK2Pq"

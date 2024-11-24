@@ -1,0 +1,13 @@
+name = "Biome Creepers for Fresh Animations"
+filename = "Biome Creepers Fresh Anims Patch.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2B9yJe6W/versions/WuBPPzxU/Biome%20Creepers%20Fresh%20Anims%20Patch.zip"
+hash-format = "sha512"
+hash = "22136d4f1a7cf49e45009098fcfe91ee5c6a83d6974dfad23a57d1bdf59f4bd81fd42ccd63eff8e71236eb171ba7eaa9d084efbffe420d1c3fbcab2cd8bcb387"
+
+[update]
+[update.modrinth]
+mod-id = "2B9yJe6W"
+version = "WuBPPzxU"

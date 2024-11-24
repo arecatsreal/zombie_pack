@@ -1,0 +1,13 @@
+name = "Grass Overhaul"
+filename = "Grass_Overhaul-Forge-23.10.10-MC1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eeb4VkF6/versions/BzzztYdh/Grass_Overhaul-Forge-23.10.10-MC1.20.1.jar"
+hash-format = "sha512"
+hash = "1c00da8341dec3971ca92e532eed033e8e8de6909b19db31c1d20271f16566250d32176700f3f3d1387f5abb648dc473ae7fba5a424dce9c450d8644b8fe8859"
+
+[update]
+[update.modrinth]
+mod-id = "Eeb4VkF6"
+version = "BzzztYdh"

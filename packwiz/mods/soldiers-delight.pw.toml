@@ -1,0 +1,13 @@
+name = "Soldier's Delight (A Farmer's Delight Add-on)"
+filename = "soldiers_delight-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OTGKf6AL/versions/4fRWNJnZ/soldiers_delight-1.1.0.jar"
+hash-format = "sha512"
+hash = "d5573939c66670333e9f0c4efc903fd1f557eb04cd52b015fb35c4c5be236be8b36adb21570cc0822b0554d8a76b688361b86d18df162872e1df41491a0891ed"
+
+[update]
+[update.modrinth]
+mod-id = "OTGKf6AL"
+version = "4fRWNJnZ"

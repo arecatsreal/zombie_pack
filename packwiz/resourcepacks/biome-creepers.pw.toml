@@ -1,0 +1,13 @@
+name = "Biome Creepers - Nitpicks"
+filename = "Nitpicks - Creepers V1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pp9a4XeH/versions/h2pozlZ2/Nitpicks%20-%20Creepers%20V1.1.zip"
+hash-format = "sha512"
+hash = "57cb008ed71472db44c69fc650288de10ff83862063af4488501d3993f47bc8a77c954d7af8f79b1246121cb235a696e45cd8f7a44ec47bac1c87022a8c247ff"
+
+[update]
+[update.modrinth]
+mod-id = "pp9a4XeH"
+version = "h2pozlZ2"

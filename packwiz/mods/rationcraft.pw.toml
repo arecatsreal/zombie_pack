@@ -1,0 +1,13 @@
+name = "Rationcraft"
+filename = "chaseisration-1.3.5.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z9VJeoxC/versions/NKVsOHzF/chaseisration-1.3.5.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "6b8e2e114472f0ff57575ed9bf85c782b6c1fd05fa3f38e5c0a86d823bd1244cd0648725927d44c618cd8a6d897315ad4b23d347ea85cd4aba180392ee605c43"
+
+[update]
+[update.modrinth]
+mod-id = "z9VJeoxC"
+version = "NKVsOHzF"

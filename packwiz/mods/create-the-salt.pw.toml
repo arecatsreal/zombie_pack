@@ -1,0 +1,13 @@
+name = "Create : The Salt"
+filename = "create_salt 1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OXUFUU4x/versions/50oKuNJx/create_salt%201.20.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "bf71ee33869884946694916ad474bd9087e87f55dc13259f1818615877f795e0655aca34b01e02ff9e1fa39fbba4b1c688d151350965791ce55156a707c0596f"
+
+[update]
+[update.modrinth]
+mod-id = "OXUFUU4x"
+version = "50oKuNJx"

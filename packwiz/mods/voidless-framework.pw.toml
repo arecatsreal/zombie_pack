@@ -1,0 +1,13 @@
+name = "Voidless Framework"
+filename = "chaseisframework-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1PY6Y8vk/versions/PAJnUFBd/chaseisframework-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "db8bc9ef0fd5241b57425f9c796f1cdcaa6c82ee8680625be0f88bdb3aff577e11ecb8e45222e3bb3ee82c0248a1388cfd08d492f25f612ac33e634730fd8fa9"
+
+[update]
+[update.modrinth]
+mod-id = "1PY6Y8vk"
+version = "PAJnUFBd"

@@ -1,0 +1,13 @@
+name = "Gregicality Rocketry"
+filename = "gcyr-1.20.1-0.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4VJrCEMZ/versions/ztNm4q1y/gcyr-1.20.1-0.2.5.jar"
+hash-format = "sha512"
+hash = "fa1a7b9072c7b90c045ae0b5fd16a82c9c527bbd41d843501e53794095ca98472ee76aedc4de7f2acb4b1ca6d0ccf42dd001ec3dbe3a7cab0538134ed7a3c6f1"
+
+[update]
+[update.modrinth]
+mod-id = "4VJrCEMZ"
+version = "ztNm4q1y"

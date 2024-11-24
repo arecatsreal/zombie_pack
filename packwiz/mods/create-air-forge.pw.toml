@@ -1,0 +1,13 @@
+name = "Create Air [Forge]"
+filename = "createair-1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbuRwhB5/versions/iSpZ4cze/createair-1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "be79583ffd08990b30fdf9ddc26bd51e6dc507fe531dc4bf789b4a263c7d08e2bd5a0d0b230c2f7539b33cdff66b2b582a6e5a3c4a77743fa6420e9123e84b83"
+
+[update]
+[update.modrinth]
+mod-id = "sbuRwhB5"
+version = "iSpZ4cze"

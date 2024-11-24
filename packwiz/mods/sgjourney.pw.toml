@@ -1,0 +1,13 @@
+name = "Stargate Journey"
+filename = "Stargate Journey-1.20.1-0.6.33.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qlc8dxM6/versions/e9KlKQZv/Stargate%20Journey-1.20.1-0.6.33.jar"
+hash-format = "sha512"
+hash = "8d9d3187bb9c6d316a201e8bef3c20719776b307c79966d69980aceb2ac09727ee46cf6e481be016e09a56f19aef99d50446e39d64a5e39e389b00629c8423de"
+
+[update]
+[update.modrinth]
+mod-id = "qlc8dxM6"
+version = "e9KlKQZv"

@@ -1,0 +1,13 @@
+name = "Horse Statistics"
+filename = "horsestatsmod-MC1.20.x-1.4.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RnxjxXAI/versions/ud3sAsYd/horsestatsmod-MC1.20.x-1.4.7.jar"
+hash-format = "sha512"
+hash = "22fd794fc5c3fa936e811c4b8274a6cb1f13d9d12f94228fcf0cabfb3d91581ab9b6e91a7fcd47066d723abd2b845d0cf63f1ab968d624ae34a875a54df28f0f"
+
+[update]
+[update.modrinth]
+mod-id = "RnxjxXAI"
+version = "ud3sAsYd"

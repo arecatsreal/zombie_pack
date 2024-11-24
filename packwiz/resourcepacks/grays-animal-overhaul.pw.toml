@@ -1,0 +1,13 @@
+name = "Gray's Animal Overhaul"
+filename = "Gray's Animal Overhaul v1.0 1.19-1.20.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9HvWW5YE/versions/ar6CeDMr/Gray%27s%20Animal%20Overhaul%20v1.0%201.19-1.20.2.zip"
+hash-format = "sha512"
+hash = "b1e9eb2c8048472394bfdc94273c2588e64b7ac290704bcc3b6626026dbc80509044c7e20dea0a375110e8d737d6de8966ce433d981e79fd2214093701e04083"
+
+[update]
+[update.modrinth]
+mod-id = "9HvWW5YE"
+version = "ar6CeDMr"
